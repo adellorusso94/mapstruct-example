@@ -8,4 +8,5 @@ public class CarDTO {
     private String carName;
     private FuelType fuelType;
 
+
 }
